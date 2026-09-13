@@ -45,8 +45,10 @@ I'm a passionate developer focused on building modern, scalable, and high-perfor
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujansujan13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sujan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujansujan13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujansujan13&theme=tokyonight&hide_border=true" alt="Sujan's GitHub Streak" width="85%" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujansujan13&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
