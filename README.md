@@ -1,4 +1,4 @@
-# Hi there, I'm Sujan Raj Pandey 👋 🚀
+# Hi there, I'm Sujan Raj Pandey 👋
 
 ### 💻 Full-Stack Developer | TypeScript & Next.js Enthusiast
 
