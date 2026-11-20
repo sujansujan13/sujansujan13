@@ -107,17 +107,5 @@ I'm always interested in connecting with developers, collaborating on projects, 
 <p align="center">
   <i>Learning by building. Improving with every project.</i>
 </p>
----
 
-## 🤝 Let's Connect
 
-I'm interested in connecting with developers, collaborating on interesting projects, and exploring software development opportunities.
-
-- **GitHub:** [@sujansujan13](https://github.com/sujansujan13)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sujan-pandey-b13662417/)
-
----
-
-<p align="center">
-  <i>Building, learning, and improving — one project at a time.</i>
-</p>
