@@ -88,17 +88,25 @@ A practical repository exploring Zustand and global state management patterns in
 
 ---
 
-## 📊 GitHub Statistics
+## 💡 Currently Exploring
+
+- Building scalable backend applications with Node.js, Express.js, and TypeScript.
+- Exploring database optimization and Redis caching.
+- Learning backend architecture, authentication, and API security.
+- Improving full-stack application architecture using Next.js and modern tooling.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring software development opportunities.
+
+- **GitHub:** [@sujansujan13](https://github.com/sujansujan13)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sujan-pandey-b13662417/)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujansujan13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujansujan13&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <i>Learning by building. Improving with every project.</i>
 </p>
-
-<p align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujansujan13&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
